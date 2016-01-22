@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;FlashySquare.java&apos; to &apos;teachingkidsprogramming&apos;" description="Move &apos;FlashySquare.java&apos; to &apos;teachingkidsprogramming&apos;" destination="src/org/teachingkidsprogramming" element1="src/org/teachingkidsprogramming/section09final/FlashySquare.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1453417002182" updateReferences="true"/>
+</session>

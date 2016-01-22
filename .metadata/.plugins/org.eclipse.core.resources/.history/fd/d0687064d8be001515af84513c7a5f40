@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class DivisibilityBy5
+{
+  public static void main(String[] args)
+  {
+    Scanner sc = new Scanner(System.in);
+    int num = 10;
+  int divisor = 2;
+  if(num % divisor == 0)
+  {
+      System.out.printIn("yes!");
+  }
+  else
+  {
+    System.out.printIn("nope!");
+  }
+  }
+}
